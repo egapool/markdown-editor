@@ -1,0 +1,11 @@
+html,body,.container {
+  height:100%;
+}
+.container {
+  width: 100% !important;
+}
+textarea {
+  min-height: 600px;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
